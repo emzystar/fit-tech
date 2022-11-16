@@ -1,0 +1,63 @@
+* {
+    text-decoration: none! important;
+}
+
+.p, a{
+    color: #898c80! important;
+
+}
+.bi-google {
+    color: teal;
+
+}
+.bi-minecart-loaded {
+    font-size: 30px;
+    color: rgb(77, 170, 241);
+    
+}
+.bi-tags-fill {
+    font-size: 30px;
+    color: rgb(21, 145, 40)
+}
+.bi-truck {
+    font-size:30px;
+    color: rgb(183, 32, 8)
+
+}
+.bi-facebook {
+    color: rgb(26, 109, 225);
+    font-size: 30px;
+}
+.bi-twitter {
+    color: rgb(26, 109, 225);
+    font-size: 30px;
+}
+.bi-instagram {
+    color: rgba(222, 63, 94, 0.664);
+    font-size: 30px;
+}
+.bi-youtube {
+    color: rgb(153, 30, 30);
+    font-size: 30px;
+}
+.slides {
+    width: 270px;
+    height: 300px;
+    flex: none;
+    margin-left: 5px;
+}
+.horizontal-scroll {
+    overflow-x: auto;
+
+}
+
+.bi {
+    font-size: 20px;
+    cursor: pointer;
+}
+a:hover {
+    color: red! important;
+}
+.lightdark {
+    background-color: #2c2e2e;
+}
